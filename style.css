@@ -30,19 +30,5 @@ p {
     text-align: center;
     margin-bottom: 10px;
 }
-#nav {
-    clear: right;
-}
-#section {
-    float: left;
-    position: absolute;
-    margin-right: 10px;
 
- }
-#aside {
-    float: right;
-    margin-left: 10px;
-}
-#footer {
-    position: fixed;
 }
