@@ -4,12 +4,16 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: 0px auto;
 }
 .main {
     background: #ebebeb;
     text-align: center;
     margin-bottom: 10px;
     padding: 25px;
+}
+#header{
+    margin-top: 10px;
 }
 .sub {
     color: #ebebeb;
