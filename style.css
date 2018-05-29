@@ -7,9 +7,9 @@ body {
 }
 .main {
     background: #ebebeb;
-    width: 495px;
     text-align: center;
     margin-bottom: 10px;
+    padding: 25px;
 }
 .sub {
     color: #ebebeb;
@@ -29,6 +29,4 @@ p {
     background: #ebebeb;
     text-align: center;
     margin-bottom: 10px;
-}
-
 }
