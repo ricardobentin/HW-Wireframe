@@ -2,3 +2,52 @@
     box-sizing: border-box;
     text-align: center;
 }
+body {
+    font-family: Arial, "helvetica neue", Helvetica, sans-serif;
+    color: #777;
+    background:#777;
+    width: 960px;
+    font-size: 18px;
+}
+header {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#nav {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+#section {
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+aside{
+    background: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+footer {
+    background: #ebebeb;
+    padding: 20px;
+    margin-top: 20px;
+}
+#article {
+    color: #ebebeb;
+    background: #777;
+    padding: 10px;
+}
+#headers {
+    color: #777;
+    background: #ebebeb;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+#paragraph {
+    color: #777;
+    background: #ebebeb;
+    padding: 5px;
+}
