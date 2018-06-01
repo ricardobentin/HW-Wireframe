@@ -37,7 +37,7 @@ aside{
     padding: 20px;
     margin-bottom: 20px;
     float: left;
-    width: 46%;
+    width: calc(100% - 517px);
     height: 250px;
   
 }
